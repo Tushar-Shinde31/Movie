@@ -50,3 +50,5 @@ export const getTrendingMovies = async () => {
   console.error(error);
  }
 }
+
+// 4. Export the functions to be used in the App component
