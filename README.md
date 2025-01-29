@@ -1,7 +1,5 @@
 # 🎬 MovieVerse
 
-![MovieVerse Banner](./assets/banner.png)
-
 🚀 **MovieVerse** is your ultimate destination for exploring the world of cinema! Stay updated with the latest trending movies, ratings, release dates, and more. Plus, track your search history seamlessly using **Appwrite**! 📽️🍿
 
 ## 🌟 Features
@@ -18,12 +16,14 @@
 
 ## 🖼️ Screenshots
 
-| Home Page | Trending Movies | Database |
-|-----------|--------------|---------------|
-| (![Screenshot (251)](https://github.com/user-attachments/assets/a9912ace-0378-4ddb-bb6f-01bae7b519bf)
-) | (![Screenshot (252)](https://github.com/user-attachments/assets/5b9251a1-1796-4014-a160-faaadee1a4b0)
-) | (![Screenshot (253)](https://github.com/user-attachments/assets/64b37891-e2ea-4035-8784-ed32312c2654)
-) |
+### 🏠 Home Page
+![Home Page](https://github.com/user-attachments/assets/a9912ace-0378-4ddb-bb6f-01bae7b519bf)
+
+### 🔥 Trending Movies
+![Trending Movies](https://github.com/user-attachments/assets/5b9251a1-1796-4014-a160-faaadee1a4b0)
+
+### 🗄️ Database (Search History)
+![Database](https://github.com/user-attachments/assets/64b37891-e2ea-4035-8784-ed32312c2654)
 
 ## 🛠️ Tech Stack
 
@@ -62,12 +62,6 @@
 
 We welcome contributions! Feel free to submit a pull request or open an issue.
 
-## 📜 License
+## Author 👨‍💻
 
-This project is licensed under the **MIT License**.
-
-## 📬 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌍 [Portfolio](https://yourportfolio.com)
+Developed by **[Tushar Shinde](https://github.com/Tushar-Shinde31)**. Connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-shinde-262335257/).
